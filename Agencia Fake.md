@@ -36,7 +36,7 @@
     </div>
 </header>
 <section>
-    <h2>O que podemos fazer pelo seu negocio?</h2>
+    <h2>o que é?</h2>
     <div class="serviços">
     <div class="card">
     <img src="img/pc.png">

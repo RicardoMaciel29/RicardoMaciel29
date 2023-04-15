@@ -10,8 +10,7 @@
     <link rel="stylesheet" href="css/responsivo.css">
     <title>Agencia Fake</title>
 </head>
-<body>
-    <nav class="navbar">
+
         <div class="logo">
             <h1>Agencia Fake</h1>
         </div>
